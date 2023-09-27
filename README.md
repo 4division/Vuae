@@ -53,7 +53,7 @@ Vuae has only been tested with mp4 files, but feel free to test other file forma
 ## Credits
 
 - [github.com/johnson-cooper](https://github.com/johnson-cooper)
-- [github.com/soundsbyjs](https://github.com/soundsbyjs)
+- [github.com/aquali_xoxo](https://github.com/aquali_xoxo)
 - [github.com/4-division](https://github.com/4-division)
 - [4-division.com](https://4-division.com)
 
