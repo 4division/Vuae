@@ -19,6 +19,11 @@ It splits the video into separate frames, processes them, and combines them back
 - Fast upscaling using efficient realesr-general-x4v3 pre-trained model
 - GUI based
 
+## Installation
+```pip install -r requirements.txt```
+
+```python3 Vuae.py```
+
 ## Requirements
 
 - opencv-python
