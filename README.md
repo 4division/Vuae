@@ -46,7 +46,7 @@ It splits the video into separate frames, processes them, and combines them back
 Vuae has only been tested with mp4 files, but feel free to test other file formats. Make sure to keep video files inside the installed directory to ensure no errors. Ignore errors without AI upscaling; they are only used when AI upscaling is used.
 
 1. Open video file in GUI.
-2. Select a save destination inside the directory.
+2. Select a save destination inside the directory make sure to include the .mp4 extension.
 3. Adjust parameters.
 4. Click Upscale and enhance video.
 
